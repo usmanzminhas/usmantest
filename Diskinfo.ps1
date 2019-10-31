@@ -1,7 +1,7 @@
 Param (
    [Parameter(Mandatory=$True)]
    [string]
-   $ServerName
+   $ServerName noname
 )
 
 
